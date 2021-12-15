@@ -1,4 +1,4 @@
-﻿l.l l>l L.L L>L .l. >l> >L> lll >>> k,k ,k, ,,, <k< K,K klk ,., KLK .,. ><> LKL kkk <<< k,k ,k, l.l .l. K,.L k<>l l.,K L.,k K,.L l><k K<>L kl,. KL<> lk>< LK.,
+l.l l>l L.L L>L .l. >l> >L> lll >>> k,k ,k, ,,, <k< K,K klk ,., KLK .,. ><> LKL kkk <<< k,k ,k, l.l .l. K,.L k<>l l.,K L.,k K,.L l><k K<>L kl,. KL<> lk>< LK.,
 
 <goals> <goal>compile</goal> </goals>
 <p><b>jetty</b> artifact only:<br/><br/>
@@ -16,7 +16,7 @@ byteArrayOf((l.ushr(25) and 0xff).toByte(),
 Or<ImList<String>, ImList<String>> linkMsgs = EncodingUtils.validateLink(link, 255);
 private val messages: WeakHashMap<String, MutList<Msg>> = WeakHashMap()
 
-;;; ;'; ''' ::: :": """ ":", "She won't.", "He can't.", "We've got it.", "You'd never know.",
+;;; ;'; ''' ::: :": """ ":", Braxton said, "She hasn't." Jill: "We've got it." Zed replied, "He won't." Alex mused, "You'd have to think."
 
 ;;; ;p; ;'; ;[; ;p[p; ;'['; ;p['; ;'[p; ;;; ;[; [[[ [;[ ;;; ;[; [[[ [;[ ;[; [;[ ;;; ;'; ;[; ;p; ;[]; ;'; ;']'; ;]; ];] ]]] ;;; ;'][p; ;p[]'; ;[][; ;']'; ;]; ]'; ;']'; :'"]"': ;'[]'; ;'][; ;[]'; ;[] ]]] ];] [] [] [] ;[]; [;] ] [a] [z] [b] [y] [c] [x] [d] [w] [e] [v] [over] [lazy] [dog]
 
