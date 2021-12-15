@@ -1,0 +1,75 @@
+﻿l.l l>l L.L L>L .l. >l> >L> lll >>> k,k ,k, ,,, <k< K,K klk ,., KLK .,. ><> LKL kkk <<< k,k ,k, l.l .l. K,.L k<>l l.,K L.,k K,.L l><k K<>L kl,. KL<> lk>< LK.,
+
+<goals> <goal>compile</goal> </goals>
+<p><b>jetty</b> artifact only:<br/><br/>
+
+kik iki ki8 8k8 K8K *k* I*I 8I8 *i* 8k8k
+
+kik ki9 9i9 k9k 9k9 9ik i9i k9k KiK K9K k(k (k( ki(9 9(iK (9IiKk kKIi9( kik k(k (k( ki( (ik i(i (i( k(k
+lol lo0 o0o 000 0ol LoL lo0 0ol )o) )l) l)l o0o L0L L)L lol lo) o)o ))) )ol k(k l)l ki89ik lo0ol ki98ik lo0ol ;p; ;); ;); (f) (u) (g) (t) (quick) (brown) (fox) (jumps) (89k) (98K) (l) (70) (k) (01) (67) (76) (51) (lik) (78) (klop) (87) (plunk) (90)
+
+byteArrayOf((l.ushr(25) and 0xff).toByte(),
+(l.ushr(16) and 0xff).toByte(),
+(l.ushr(8) and 0xff).toByte(),
+(l and 0xff).toByte())
+
+Or<ImList<String>, ImList<String>> linkMsgs = EncodingUtils.validateLink(link, 255);
+private val messages: WeakHashMap<String, MutList<Msg>> = WeakHashMap()
+
+;;; ;'; ''' ::: :": """ ":", "She won't.", "He can't.", "We've got it.", "You'd never know.",
+
+;;; ;p; ;'; ;[; ;p[p; ;'['; ;p['; ;'[p; ;;; ;[; [[[ [;[ ;;; ;[; [[[ [;[ ;[; [;[ ;;; ;'; ;[; ;p; ;[]; ;'; ;']'; ;]; ];] ]]] ;;; ;'][p; ;p[]'; ;[][; ;']'; ;]; ]'; ;']'; :'"]"': ;'[]'; ;'][; ;[]'; ;[] ]]] ];] [] [] [] ;[]; [;] ] [a] [z] [b] [y] [c] [x] [d] [w] [e] [v] [over] [lazy] [dog]
+
+lo0 ki9 ki8 ki9 lo0 ki9 ki8 ki9 lo0 0ol 8ik 9ik 0ol ;p[p; ;p[ lo0 ;p[ lo0)OL lol lo0ol lO0_0Ol lll lo0ol lo0-0ol l0l o0o l0l l0-0l l-l lo0-_-0ol l0-0l l-l -l- --- lll l-0-l l-o-l o-o lol l-l lo0- lo0-0ol Lo)-)oL ki9 ki8 *k* 8K8 9k9 (k( 0l0 )l) 0L0 lll lol ooo lo- lo- l-l l-l lll ;;; ;[; [;[ lol ;p; ;[; l-l lll ---
+
+de3ed d3d de4ed e3e e4e 3e3 4e4 d4d d3d d4d 3d3 4d4 de3ed de4ed d3d d4d D3D e#e D4D e$e $d$ #d# $e$ #e# sw2ws fr5rf sw212ws s2s s1s 123e34e43e3e4 fr5rf ft6tf f5f f6f d3d d4d f5f f6f s1s s2s d3d d4d f5f f6f f5f d4d d3d s2s s1s s1s2d3d4f5f6 f6f5fd4d3s2s1 s123e3e4 s123d4df5f654321s s123456f f654321s s!@#$%^f f^%$#@!s S1s s!s s2s s@s @s@ !s! #d3 4d$ %f5 5F% ^f6 6F^
+
+f5f f6f s2s s1s d3d f5f f6f d4d s2s de3ed d3d d#D d4d D$d $4 5% f%f f^f s2s s@s @2@ s!s s`s s~s 3@3 3$3 3!3 3%3 3~3 3^3 #`# 3^3 #1# 3%3 #23 #43 #$# 3@3 ~s3
+
+"<h3[^>]*>How do I do it[?]</h3>"
+
+(9 - 8) (8 - 9) (53 - 62) (80 - 90) (90 - 80) (13 - 24) (98 - 89) (89 - 98) (61 - 16) (70 - 71) (k - l) (97 - 78) (l - k) (87 - 79) (67 - 76) (79 - 70) (3x) (2x) (3x2) (2x3) (#3) ($4) (5%) (2@ $4 ea)
+
+private fun <U> groupFields(fieldName: HtmlS, items: List<Pair<*, TaintedS>>, fullFn: () -> EmptyFullIssue<U>): EmptyFullIssue<U>
+
+lll lo0ol lo0-0ol l-l lo0-=-0ol l-l l=l lll lo0-= lo0-= lo- lo= lo0-=-0ol -0ol =-0ol lo0=0l lo=ol l=l l=l === =l= l=l =l= l=l L=L +l+ +L+ ;p; P;P lOl OlO Ki8 9Ik 0ol ,k8 lo) 8ik 9ik l)l k(k lo0ol ki9ik ki8ik ju7uj ft6tf fr5rf ft6tf ju7uj ki8ik ki9ik lo0ol 12345678i89i9ik 1234567890o098i89i98i87654321
+lll ded de3 e3e E#E DE#ED de3ed De#eD dE3Ed d3d d#d #14 = #67 = #20 = #83 = #93 = #49 = #78 = #20 = #95 = #82 = #81 = #17 = #52 = #67
+
+ lll lo0-=-0ol lo0-=+=-_0ol l0-+-0ol l-l l=l l+l +l+ L+L l+l +l+ +L+ lll +++ lll lo0ol 0-0 0=0 0_0 0+0 )-) _0_ -)_ _)- 0=0 )=) 0+0 +0+ +)+ 31 + 62 - 11 + 33 - 88 + 30 - 70 + 59 - 71 + 67 - 37 + 73 - 89 + 81 - 24 + 17 - 74 + 54 - 45 + 80 - 28 + 63 - 44 + 13 - 60 + 44 - 34 + 46 - 59 + 98 - 11 + 72 - 63 + 37 - 
+
+htmlToPlainText("<!-- Got-cha! <p>hi</p> &amp; -> >- -->Hello")
+
+;;; ;[; ;[{[; :{[{: ;{; {{{ {;{ ;;; :{: {{{ {:{ ;{; {;{ ;;; ;{; ;'; ;']'; :"}": ;'}'; :"}'; ;'}": ;{} }}} };} {} {} {} ;{}; {;} } {h} {s} {i} {r} {j} {q} {p} do { } class { } try { } else if() { } finally { } catch { } else { } function() { }
+
+<style>.cls-2{fill:#fff;}.cls-6{stroke:#000;}.cls-3{stroke-width:0.12px;}.cls-4{fill:url(#linear-gradient);}.cls-5{fill:url(#linear-gradient-2);}.cls-6{stroke-width:0.11px;}</style>
+
+<pattern>%date %level [%thread] %logger{10} [%file:%line] %msg%n</pattern>
+val res: SortedMap<Int, Pair<Int?, String?>> = sortAndPair(aas, {a -> a}, bbs, {b -> b.toInt()})
+
+public static <T> void replaceAssociations(Fn0<List<? super T>> fn, Collection<? extends T> newItems) {
+fullFn: () -> EmptyFullIssue<U>): EmptyFullIssue<U> {
+
+;;; ;[; ;[]; ;[]\][; ;'; ;'['; ;'[]'; ;']'; ;']\]'; ;]; ;]\ ;]\ ;\; ;\; ;;; ;]; ;]; ;]| ;]| ;|; ;|; \74| \67| \97| \63| \21| \44| \37| \46| \76|
+
+lo0-=-0ol l=l L=L l+l +l+ +L+ =L= =l= -l- =l= 0l0 l0l-l=l-l0l-l=l-l0
+.matching(Pattern.compile("Diagram-Heading|Diagram-Sub-Head|Diagram-caption|JM-TIPS|Tool-caption"))// caption|img(Area|Head|SubHead|Full)|subtitle|tip"))
+"c = c.replace(/<div id=\"[^\"]+\" class=\"note\">([^<]+|<[^\\/]|<\\/[^d]|<\\/d[^i]|<\\/di[^v]|<\\/div[^>])*<\\/div>/gi, function() { return ''; });\n" +
+
+frtrf fr5rf frt5tf ft5tf f5f f%f F5F %f% 5f5 %f% %F%
+"<span class=\"b1\">h</span>i<span class=\"b1\">s </span>g"
+"<div class=\"imgFull\"><img src=\"${img.url()}\" style=\"width:100%;max-width:780px;\" alt=\"\"></div>\n" +
+d3d d#d D3D sxs SxS XsX xSx
+" <a href=\"javascript:popupHelp('security_tips.sjsp#xsrf')\">" +
+
+fileStr.replace(Regex("<!--([^-]+|-[^-]+|--[^>])*-->"), "")
+s = s.replace("<p class=\"JM-TIPS\">(?:<span>)? ?Tip ?((?:[^<]+|<[^/]|</[^p]|</p[^>])*)</p>".toRegex(), "<tip>$1</tip>")
+s = s.replace("\t*<p class=\"Tool-caption[^\"]*\">([^<]+|<[^/]|</[^p][^>]+>)*</p>".toRegex(), "<subtitle>$1</subtitle>")
+
+"\n<div class=\"tip\">$1</div>\n"
+"</h3>[^<]*<div[^>]*>[^<]*<div[^>]*>[^<]*<img( class=\"[^\"]*\")? src=\"image/cruising.png\"[^>]*>[^<]*</div>[^<]*</div>"
+StringTokenizer(txt, "\t\n\r !\"#$%'()*+,-./0123456789:;=?[\\]^_`{|}~")
+
+"  var m = s.match(/[ \\t\\n]+([a-zA-Z]+(=(\"([^\"]*)\"|'([^']*)'))?)/g);\n" +
+Pattern.compile("<h[1-5]>([^<]+|<[^/]|</[^h]|</h[^1-5]|</h[1-5][^>])*</h[1-5]>")
+(([^<]+|<[^/]|</[^d]|</d[^i]|</di[^v]|</div[^>])*)</div>
+"<tip>((?:[^<]*|<[^/]|</[^t]|</t[^i]|</ti[^p]|</tip[^>])+)</tip>"
