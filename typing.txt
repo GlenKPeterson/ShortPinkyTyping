@@ -5,22 +5,18 @@ l.l l>l L.L L>L .l. >l> >L> lll >>> k,k ,k, ,,, <k< K,K klk ,., KLK .,. ><> LKL 
 
 fr5rf f5f ft6tf f6f de4ed d4d de3ed d3d d4d de3 4e3 3e4 3d4 4d3 d4d3d4d3 e4e3e4e3 de3ed de4ed fr5rf f5f f6f ft6tf ft5tf t5t6t5t6 f6f5f6f5 e4e3e4e3 d4d3d4d3 s2w21w2w1s1s2sw1w2
 
-kik iki ki8 8k8 K8K *k* I*I 8I8 *i* 8k8k
-
-kik ki9 9i9 k9k 9k9 9ik i9i k9k KiK K9K k,k ,k, k(k (k( ki(9 9(iK (9IiKk kKIi9( kik k(k (k( ki( (ik i(i (i( k(k
-lol lo0 o0o 000 0ol LoL lo0 0ol )o) )l) l)l o0o L0L L)L l.l lol lo) l>l o)o ))) )ol k(k l)l ki89ik lo0ol ki98ik lo0ol ;p; ;); ;); (f) (u) (g) (t) (quick) (brown) (fox) (jumps) (89k) (98K) (l) (70) (k) (01) (67) (76) (51) (lik) (78) (klop) (87) (plunk) (90)
+kik iki ki8 8k8 K8K *k* I*I 8I8 *i* 8k8k kik ki9 9i9 k9k 9k9 9ik i9i k9k KiK K9K k,k ,k, k(k (k( ki(9 9(iK (9IiKk kKIi9( kik k(k (k( ki( (ik i(i (i( k(k lol lo0 o0o 000 0ol LoL lo0 0ol )o) )l) l)l o0o L0L L)L l.l lol lo) l>l o)o ))) )ol k(k l)l ki89ik lo0ol ki98ik lo0ol ;p; (f) (u) (g) (t) (quick) (brown) (fox) (jumps) (89k) (98K) (l) (70) (k) (01) (67) (76) (51) (lik) (78) (klop) (87) (plunk) (90)
 
 byteArrayOf((l.ushr(25) and 0xff).toByte(),
 (l.ushr(16) and 0xff).toByte(),
 (l.ushr(8) and 0xff).toByte(),
 (l and 0xff).toByte())
 
-Or<ImList<String>, ImList<String>> linkMsgs = EncodingUtils.validateLink(link, 255);
-private val messages: WeakHashMap<String, MutList<Msg>> = WeakHashMap()
+Or<ImList<String>, ImList<String>> linkMsgs, EncodingUtils.validateLink(link, 255); private val messages: WeakHashMap<String, MutList<Msg>>, WeakHashMap()
 
 ;;; ;'; ''' ::: :": """ ":", Braxton said, "She hasn't." Jill: "We've got it." Zed replied, "He won't." Alex mused, "You'd have to think."
 
-;;; ;p; ;'; ;[; ;p[p; ;'['; ;p['; ;'[p; ;;; ;[; [[[ [;[ ;;; ;[; [[[ [;[ ;[; [;[ ;;; ;'; ;[; ;p; ;[]; ;'; ;']'; ;]; ];] ]]] ;;; ;'][p; ;p[]'; ;[][; ;']'; ;]; ]'; ;']'; :'"]"': ;'[]'; ;'][; ;[]'; ;[] ]]] ];] [] [] [] ;[]; [;] ] [a] [z] [b] [y] [c] [x] [d] [w] [e] [v] [over] [lazy] [dog]
+;;; ;p; ;'; ;p[p; ;'['; ;[; ;p['; ;'[p; ;;; ;[; [[[ [;[ ;;; ;[; [[[ [;[ ;[; [;[ ;;; ;'; ;[; ;p; ;[]; ;'; ;']'; ;]; ];] ]]] ;;; ;'][p; ;p[]'; ;[][; ;']'; ;]; ]'; ;']'; :'"]"': ;'[]'; ;'][; ;[]'; ;[] ]]] ];] [] [] [] ;[]; [;] ] [a] [z] [b] [y] [c] [x] [d] [w] [e] [v] [over] [lazy] [dog]
 
 lo0 ki9 ki8 ki9 lo0 ki9 ki8 ki9 k,k k<k lo0 0ol 8ik 9ik 0ol ;p[p; ;p[ lo0 ;p[ lo0)OL lol lo0ol lO0_0Ol lll lo0ol lo0-0ol l0l o0o l0l l0-0l l-l lo0-_-0ol l0-0l l-l -l- --- lll l.l l-0-l l-o-l o-o lol l-l lo0- lo0-0ol Lo)-)oL ki9 ki8 *k* 8K8 9k9 (k( k,k <k< 0l0 )l) 0L0 lll lol ooo lo- lo- l-l l-l lll ;;; ;[; [;[ lol ;p; ;[; l-l lll ---
 
@@ -30,14 +26,13 @@ f5f f6f s2s s1s d3d f5f f6f d4d s2s de3ed d3d d#D d4d D$d $4 5% f%f f^f s2s s@s 
 
 "<h3[^>]*>How do I do it[?]</h3>"
 
-(9 - 8) (8 - 9) (53 - 62) (80 - 90) (90 - 80) (13 - 24) (98 - 89) (89 - 98) (61 - 16) (70 - 71) (k - l) (97 - 78) (l - k) (87 - 79) (67 - 76) (79 - 70) (3x) (2x) (3x2) (2x3) (#3) ($4) (5%) (2@ $4 ea)
+(9 - 8) (8 - 9) [53 - 62] (80 - 90) [90 - 80] (109 - 78) (23 - 54) [45 - 32] (13 - 24) [98 - 89] (89 - 98) [61 - 16] (70 - 71) (k - l) (97 - 78) (l - k) (87 - 79) (67 - 76) (79 - 70) [3x] (2x) [3x2] (2x3) [#3] ($4) [5%] (2@ $4 ea)
 
 private fun <U> groupFields(fieldName: HtmlS, items: List<Pair<*, TaintedS>>, fullFn: () -> EmptyFullIssue<U>): EmptyFullIssue<U>
 
-lll lo0ol lo0-0ol l-l lo0-=-0ol l-l l=l lll lo0-= lo0-= lo- lo= lo0-=-0ol -0ol =-0ol lo0=0l lo=ol l=l l=l === =l= l=l =l= l=l L=L +l+ +L+ ;p; P;P lOl OlO Ki8 9Ik 0ol ,k8 lo) 8ik 9ik l)l k(k lo0ol ki9ik ki8ik ju7uj ft6tf fr5rf ft6tf ju7uj jmj jnj jhj ki8ik ki9ik k,k <k< lo0ol l.l >l> 12345678i89i9ik 1234567890o098i89i98i87654321
-lll ded de3 e3e E#E DE#ED de3ed De#eD dE3Ed d3d d#d #14 = #67 = #20 = #83 = #93 = #49 = #78 = #20 = #95 = #82 = #81 = #17 = #52 = #67
+lll lo0ol lo0-0ol l-l lo0-=-0ol l-l l=l lll lo0-= lo0-= lo- lo= lo0-=-0ol -0ol =-0ol lo0=0l lo=ol l=l l=l === =l= l=l =l= l=l L=L +l+ +L+ ;p; P;P lOl OlO Ki8 9Ik 0ol ,k8 lo) 8ik 9ik l)l k(k lo0ol ki9ik ki8ik ju7uj ft6tf fr5rf ft6tf ju7uj jmj jnj jhj ki8ik ki9ik k,k <k< lo0ol l.l >l> 12345678i89i9ik 1234567890o098i89i98i87654321 lll ded de3 e3e E#E DE#ED de3ed De#eD dE3Ed d3d d#d #14 = #67 = #20 = #83 = #93 = #49 = #78 = #20 = #95 = #82 = #81 = #17 = #52 = #67
 
- lll lo0-=-0ol lo0-=+=-_0ol l0-+-0ol l-l l=l l+l l-l +l+ L=L L+L l+l 0l0 +l+ )l) -L- +L+ lll +++ lll lo0ol 0-0 0=0 0_0 0+0 )-) _0_ -)_ _)- 0=0 )=) 0+0 +0+ +)+ l-o=o+l 31 + 62 - 11 + 33 - 88 + 30 - 70 + 59 - 71 + 67 - 37 + 73 - 89 + 81 - 24 + 17 - 74 + 54 - 45 + 80 - 28 + 63 - 44 + 13 - 60 + 44 - 34 + 46 - 59 + 98 - 11 + 72 - 63 + 37 -
+ lll lo0-=-0ol lo0-=+=-_0ol l0-+-0ol l-l l=l l+l l-l +l+ L=L L+L l+l 0l0 +l+ )l) -L- +L+ lll +++ lll lo0ol 0-0 0=0 0_0 0+0 )-) _0_ -)_ _)- 0=0 )=) 0+0 +0+ +)+ l-o=o+l 31 + 62 - 11 + 34 - 88 + 43 - 70 + 54 - 71 + 23 - 34 + 54 - 32 + 45 - 12 + 67 - 37 + 73 - 89 + 81 - 23 + 17 - 74 + 54 - 45 + 80 - 28 + 63 - 44 + 13 - 60 + 44 - 34 + 46 - 59 + 98 - 11 + 72 - 63 + 37 -
 
 htmlToPlainText("<!-- Got-cha! <p>hi</p> &amp; -> >- -->Hello")
 
@@ -67,9 +62,13 @@ fileStr.replace(Regex("<!--([^-]+|-[^-]+|--[^>])*-->"), "")
 s = s.replace("<p class=\"JM-TIPS\">(?:<span>)? ?Tip ?((?:[^<]+|<[^/]|</[^p]|</p[^>])*)</p>".toRegex(), "<tip>$1</tip>")
 s = s.replace("\t*<p class=\"Tool-caption[^\"]*\">([^<]+|<[^/]|</[^p][^>]+>)*</p>".toRegex(), "<subtitle>$1</subtitle>")
 
+s1s2 d3d4 f5f6 j7 k8k9 l0 0l9k8k7j6f5f4d3d2s1s s1s2d3d4f5f6j7k8k9l0 l0k9k8j7f6f5d4d3s2s1 1234567890 0987654321 (12) = <34> {56} [7] = (809) <23 + 54> {45 - 32} = [6 + 701] (8 - 709) <90 + 87> = {76} [45 - 32] (10 + 29)
+
 "\n<div class=\"tip\">$1</div>\n"
 "</h3>[^<]*<div[^>]*>[^<]*<div[^>]*>[^<]*<img( class=\"[^\"]*\")? src=\"image/cruising.png\"[^>]*>[^<]*</div>[^<]*</div>"
 StringTokenizer(txt, "\t\n\r !\"#$%'()*+,-./0123456789:;=?[\\]^_`{|}~")
+
+l;l'./l;op0[-]=\ \=]-[0po;l'l/,., jkl; m,./ uiop 780 097 poiu ;lkj /.,m j" u| 7+ =* \U 'J ?M .?>/ "L;l'L:l oPO[o}O|O{o]O[op i8i9o0-= ;p[]\ \=]-|+\=}_]-{)[0poPOj
 
 "  var m = s.match(/[ \\t\\n]+([a-zA-Z]+(=(\"([^\"]*)\"|'([^']*)'))?)/g);\n" +
 Pattern.compile("<h[1-5]>([^<]+|<[^/]|</[^h]|</h[^1-5]|</h[1-5][^>])*</h[1-5]>")
