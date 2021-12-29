@@ -5,7 +5,11 @@ l.l l>l L.L L>L .l. >l> >L> lll >>> k,k ,k, ,,, <k< K,K klk ,., KLK .,. ><> LKL 
 
 fr5rf f5f ft6tf f6f de4ed d4d de3ed d3d d4d de3 4e3 3e4 3d4 4d3 d4d3d4d3 e4e3e4e3 de3ed de4ed fr5rf f5f f6f ft6tf ft5tf t5t6t5t6 f6f5f6f5 e4e3e4e3 d4d3d4d3 s2w21w2w1s1s2sw1w2
 
-kik iki ki8 8k8 K8K *k* I*I 8I8 *i* 8k8k kik ki9 9i9 k9k 9k9 9ik i9i k9k KiK K9K k,k ,k, k(k (k( ki(9 9(iK (9IiKk kKIi9( kik k(k (k( ki( (ik i(i (i( k(k lol lo0 o0o 000 0ol LoL lo0 0ol )o) )l) l)l o0o L0L L)L l.l lol lo) l>l o)o ))) )ol k(k l)l ki89ik lo0ol ki98ik lo0ol ;p; (f) (u) (g) (t) (quick) (brown) (fox) (jumps) (89k) (98K) (l) (70) (k) (01) (67) (76) (51) (lik) (78) (klop) (87) (plunk) (90)
+kik iki ki8 8k8 K8K *k* I*I 8I8 *i* 8k8k kik ki9 9i9 k9k 9k9 9ik i9i k9k KiK K9K k,k ,k, k(k (k( ki(9 9(iK (9IiKk kKIi9( kik k(k (k( ki( (ik i(i (i( k(k
+
+lol lo0 o0o 000 0ol LoL lo0 0ol )o) )l) l)l o0o L0L L)L l.l lol lo) l>l o)o ))) )ol k(k l)l ki89ik lo0ol ki98ik lo0ol ;p;
+
+(f) (u) (g) (t) (quick) (brown) (fox) (jumps) (89k) (98K) (l) (70) (k) (01) (67) (76) (51) (lik) (78) (klop) (87) (plunk) (90)
 
 byteArrayOf((l.ushr(25) and 0xff).toByte(),
 (l.ushr(16) and 0xff).toByte(),
@@ -16,11 +20,19 @@ Or<ImList<String>, ImList<String>> linkMsgs, EncodingUtils.validateLink(link, 25
 
 ;;; ;'; ''' ::: :": """ ":", Braxton said, "She hasn't." Jill: "We've got it." Zed replied, "He won't." Alex mused, "You'd have to think."
 
-;;; ;p; ;'; ;p[p; ;'['; ;[; ;p['; ;'[p; ;;; ;[; [[[ [;[ ;;; ;[; [[[ [;[ ;[; [;[ ;;; ;'; ;[; ;p; ;[]; ;'; ;']'; ;]; ];] ]]] ;;; ;'][p; ;p[]'; ;[][; ;']'; ;]; ]'; ;']'; :'"]"': ;'[]'; ;'][; ;[]'; ;[] ]]] ];] [] [] [] ;[]; [;] ] [a] [z] [b] [y] [c] [x] [d] [w] [e] [v] [over] [lazy] [dog]
+;;; ;p; ;'; ;p[p; ;'['; ;[; ;p['; ;'[p; ;;; ;[; [[[ [;[ ;;; ;[; [[[ [;[ ;[; [;[ ;;; ;'; ;[; ;p; ;[]; ;'; ;']'; ;]; ];] ]]] ;;; ;'][p; ;p[]'; ;[]
 
-lo0 ki9 ki8 ki9 lo0 ki9 ki8 ki9 k,k k<k lo0 0ol 8ik 9ik 0ol ;p[p; ;p[ lo0 ;p[ lo0)OL lol lo0ol lO0_0Ol lll lo0ol lo0-0ol l0l o0o l0l l0-0l l-l lo0-_-0ol l0-0l l-l -l- --- lll l.l l-0-l l-o-l o-o lol l-l lo0- lo0-0ol Lo)-)oL ki9 ki8 *k* 8K8 9k9 (k( k,k <k< 0l0 )l) 0L0 lll lol ooo lo- lo- l-l l-l lll ;;; ;[; [;[ lol ;p; ;[; l-l lll ---
+[; ;']'; ;]; ]'; ;']'; :'"]"': ;'[]'; ;'][; ;[]'; ;[] ]]] ];] [] [] [] ;[]; [;] ] [a] [z] [b] [y] [c] [x] [d] [w] [e] [V] [p] [l] [0] [over] [lazy] [dog]
 
-de3ed d3d de4ed e3e e4e 3e3 4e4 e34e e43e d4d d3d d4d 3d3 4d4 de3ed de4ed de34ed d3d d4d d43d d34d D3D e#e D4D e$e $d$ #d# $e$ #e# sw2ws fr5rf sw212ws s2s s1s 123e34e43e3e4 fr5rf ft6tf f5f f6f d3d d4d f5f f6f s1s s2s d3d d4d f5f f6f f5f d4d d3d s2s s1s s1s2d3d4f5f6 f6f5fd4d3s2s1 s123e3e4 s123d4df5f654321s s123456f f654321s s!@#$%^f f^%$#@!s S1s s!s s2s s@s @s@ !s! #d3 4d$ %f5 5F% ^f6 6F^
+lo0 ki9 ki8 ki9 lo0 ki9 ki8 ki9 k,k k<k lo0 0ol 8ik 9ik 0ol ;p[p; ;p[ lo0 ;p[ lo0)OL lol lo0ol lo0-0ol l0l o0o l0l l0-0l l-l lo0-_-0ol l0-0l l-l -l- --- lO0_0Ol lll lo0ol
+
+lll l.l l-0-l l-o-l o-o lol l-l lo0- lo0-0ol Lo)-)oL ki9 ki8 *k* 8K8 9k9 (k( k,k <k< 0l0 )l) 0L0 lll lol ooo lo- lo- l-l l-l lll ;;; ;[; [;[ lol ;p; ;[; l-l lll ---
+
+de3ed d3d de4ed e3e e4e 3e3 s2s 4e4 f5f e34e e43e d4d d3d 2s2 d4d 3d3 4d4 f5f de3ed de4ed de34ed d3d s2s d4d 5f5 d43d d34d D3D fVf5 dCd4 sXs2
+
+e#e D4D e$e $d$ #d# $e$ #e# sw2ws fr5rf sw212ws s2s s1s 123e34e43e3e4 fr5rf ft6tf f5f f6f d3d d4d f5f f6f s1s s2s d3d d4d f5f f6f f5f d4d d3d s2s s1s
+
+s1s2d3d4f5f6 f6f5fd4d3s2s1 s123e3e4 s123d4df5f654321s s123456f f654321s s!@#$%^f f^%$#@!s S1s s!s s2s s@s @s@ !s! #d3 4d$ %f5 5F% ^f6 6F^
 
 f5f f6f s2s s1s d3d f5f f6f d4d s2s de3ed d3d d#D d4d D$d $4 5% f%f f^f s2s s@s @2@ s!s aqa aza sxs sws sw2ws sw21ws s1s sw21`12ws s2s s1s s`s s1s s2s sw2ws w2w w1w w`w 1w1 2w2 `s` S`S !s! S1S @s@ S2S s`s s~s `1` `2` s`s1s2s1s` ~s!s@s!s~ 2S1S`S1S2S 2`2 ~2~ @`@ 1`121s1s12s2`s`2s ``` sss `s` s`s 1s1 2s2 sss ddd d3d s2s 3d3 2s2 s@s d#d 3@3 3$3 3!3 3%3 3~3 3^3 #`# 3^3 #1# 3%3 #23 #43 #$# 3@3 ~s3
 
@@ -49,6 +61,8 @@ fullFn: () -> EmptyFullIssue<U>): EmptyFullIssue<U> {
 ;;; ;[; ;[]; ;[]\][; ;'; ;'['; ;'[]'; ;']'; ;']\]'; ;]; ;]\ ;]\ ;\; ;\; ;;; ;]; ;]; ;]| ;]| ;|; ;|; ||| \;\ ;'\'; ;[]\][; lo0-=-0ol ;'[]\]['; ;']\]'; ;\; :\: ;|; \:\ |;| |:| \;\ ;\; \74| \67| \97| \63| \21| \44| \37| \46| \76|
 
 lo0-=-0ol l=l L=L l+l +l+ +L+ =L= =l= -l- =l= 0l0 l0l-l=l-l0l-l=l-l0
+id=\"[^\"]+\"
+id=\"[^\"]+\"
 .matching(Pattern.compile("Diagram-Heading|Diagram-Sub-Head|Diagram-caption|JM-TIPS|Tool-caption"))// caption|img(Area|Head|SubHead|Full)|subtitle|tip"))
 "c = c.replace(/<div id=\"[^\"]+\" class=\"note\">([^<]+|<[^\\/]|<\\/[^d]|<\\/d[^i]|<\\/di[^v]|<\\/div[^>])*<\\/div>/gi, function() { return ''; });\n" +
 
@@ -58,11 +72,18 @@ frtrf fr5rf frt5tf ft5tf f5f f%f F5F %f% 5f5 %f% %F% f[0]=\"/ +ol. |'/ >lO= |'? 
 d3d d#d D3D sxs SxS XsX xSx
 " <a href=\"javascript:popupHelp('security_tips.sjsp#xsrf')\">" +
 
+<!--([^-]+|-[^-]+|--[^>])*-->
+<!--([^-]+|-[^-]+|--[^>])*-->
 fileStr.replace(Regex("<!--([^-]+|-[^-]+|--[^>])*-->"), "")
+
+(?:<span>)? ?Tip ?((?:[^<]+|<[^/]|</[^p]|</p[^>])*)
+(?:<span>)? ?Tip ?((?:[^<]+|<[^/]|</[^p]|</p[^>])*)
 s = s.replace("<p class=\"JM-TIPS\">(?:<span>)? ?Tip ?((?:[^<]+|<[^/]|</[^p]|</p[^>])*)</p>".toRegex(), "<tip>$1</tip>")
+
+"\t*<p class=\"Tool-caption[^\"]*\">([^<]+|<[^/]|</[^p][^>]+>)*</p>"
 s = s.replace("\t*<p class=\"Tool-caption[^\"]*\">([^<]+|<[^/]|</[^p][^>]+>)*</p>".toRegex(), "<subtitle>$1</subtitle>")
 
-s1s2 d3d4 f5f6 j7 k8k9 l0 0l9k8k7j6f5f4d3d2s1s s1s2d3d4f5f6j7k8k9l0 l0k9k8j7f6f5d4d3s2s1 1234567890 0987654321 (12) = <34> {56} [7] = (809) <23 + 54> {45 - 32} = [6 + 701] (8 - 709) <90 + 87> = {76} [45 - 32] (10 + 29)
+s1s2 d3d4 f5f6 j7 k8k9 l0 0l9k8k7j6f5f4d3d2s1s s1s2d3d4f5f6j7k8k9l0 l0k9k8j7f6f5d4d3s2s1 1234567890 0987654321 (12) = <34> {56} [7] = (809) <23 + 54> {45 - 32} = [6 + 701] (8 - 709) <90 + 87> = {76} [45 - 32] (10 + 29) = <34 + 43> - {32 + 45} = [43 - 45] + (23 + 54)
 
 "\n<div class=\"tip\">$1</div>\n"
 "</h3>[^<]*<div[^>]*>[^<]*<div[^>]*>[^<]*<img( class=\"[^\"]*\")? src=\"image/cruising.png\"[^>]*>[^<]*</div>[^<]*</div>"
@@ -71,6 +92,9 @@ StringTokenizer(txt, "\t\n\r !\"#$%'()*+,-./0123456789:;=?[\\]^_`{|}~")
 l;l'./l;op0[-]=\ \=]-[0po;l'l/,., jkl; m,./ uiop 780 097 poiu ;lkj /.,m j" u| 7+ =* \U 'J ?M .?>/ "L;l'L:l oPO[o}O|O{o]O[op i8i9o0-= ;p[]\ \=]-|+\=}_]-{)[0poPOj
 
 "  var m = s.match(/[ \\t\\n]+([a-zA-Z]+(=(\"([^\"]*)\"|'([^']*)'))?)/g);\n" +
+
+<h[1-5]>([^<]+|<[^/]|</[^h]|</h[^1-5]|</h[1-5][^>])*</h[1-5]>
+<h[1-5]>([^<]+|<[^/]|</[^h]|</h[^1-5]|</h[1-5][^>])*</h[1-5]>
 Pattern.compile("<h[1-5]>([^<]+|<[^/]|</[^h]|</h[^1-5]|</h[1-5][^>])*</h[1-5]>")
 (([^<]+|<[^/]|</[^d]|</d[^i]|</di[^v]|</div[^>])*)</div>
 "<tip>((?:[^<]*|<[^/]|</[^t]|</t[^i]|</ti[^p]|</tip[^>])+)</tip>"
