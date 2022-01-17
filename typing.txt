@@ -22,11 +22,12 @@ Or<ImList<String>, ImList<String>> linkMsgs, EncodingUtils.validateLink(link, 25
 
 ;;; ;p; ;'; ;p[p; ;'['; ;[; ;p['; ;'[p; ;;; ;[; [[[ [;[ ;;; ;[; [[[ [;[ ;[; [;[ ;;; ;'; ;[; ;p; ;[]; ;'; ;']'; ;]; ];] ]]] ;;; ;'][p; ;p[]'; ;[]
 
-[; ;']'; ;]; ]'; ;']'; :'"]"': ;'[]'; ;'][; ;[]'; ;[] ]]] ];] [] [] [] ;[]; [;] ] [a] [z] [o] [y] [c] [x] [.] [w] [e] [V] [p] [l] [0] [over] [lazy] [dog]
+[; ;']'; ;]; ]'; ;']'; :'"]"': ;'[]'; ;'][; ;[]'; ;[] ]]] ];] [] [] [] ;[]; [;] ] [a] [z] [o] [y] [c] [X] [.] [W] [e] [V] [p] [l] [0] [over] [lazy] [dog]
 
-lo0 ki9 ki8 ki9 lo0 ki9 ki8 ki9 k,k k<k lo0 0ol 8ik 9ik 0ol ;p[p; ;p[ lo0 ;p[ lo0)OL lol lo0ol lo0-0ol l0l o0o l0l l0-0l l-l lo0-_-0ol l0-0l l-l L_L -L- _l_ --- lO0_0Ol lll lo0ol
+lo0 ki9 ki8 ki9 lo0 ki9 ki8 ki9 k,k k<k lo0 0ol 8ik 9ik 0ol ;p[p; ;p[ lo0 ;p[ lo0)OL lol lo0ol lo0-0ol l0l o0o l0l l0-0l l-l -o- 0l0 o_o L-L l0l -l- lo0-_-0ol l0-0l l-l L_L -L- _l_ --- lO0_0Ol lll lo0ol
 
 lll l.l l-0-l l-o-l o-o lol l-l lo0- lo0-0ol Lo)-)oL ki9 ki8 *k* 8K8 9k9 (k( k,k <k< 0l0 )l) 0L0 lll lol ooo lo- lo- l-l -L- _l- _L_ lll ;;; ;[; [;[ lol ;p; ;[; l-l lll ---
+[*] ]*[ {*} ]8[ }8{ ]*{ }*[
 
 Regex("20[23][0-9]-[01][0-9]-[0-3][0-9]T[0-1][0-9]:[0-5][0-9]:[0-5][0-9]")
 Regex("20[23][0-9]-[01][0-9]-[0-3][0-9]T[0-1][0-9]:[0-5][0-9]:[0-5][0-9]")
@@ -44,7 +45,9 @@ s`s s~s `1` `2` s`s1s2s1s` ~s!s@s!s~ 2S1S`S1S2S 2`2 ~2~ @`@ 1`121s1s12s2`s`2s ``
 
 "<h3[^>]*>How do I do it[?]</h3>"
 
-(9 - 8) (8 - 9) [53 - 62] (80 - 90) [90 - 80] (109 - 78) (23 - 54) [45 - 32] (13 - 24) [98 - 89] (89 - 98) [61 - 16] (70 - 71) (k - l) (97 - 78) (l - k) (87 - 79) (67 - 76) (79 - 70) [3x] (2x) [3x2] (2x3) [#3] ($4) [5%] (2@ $4 ea)
+(9 - 8) (8 - 9) [53 - 62] (80 - 90) [90 - 80] (109 - 78) (23 - 54) [45 - 32] (13 - 24) [98 - 89] (89 - 98) [61 - 16] (70 - 71) (k - l) (97 - 78) (l - k) (87 - 79) (67 - 76) (79 - 70)
+
+[3x] (2x) [3x2] (2x3) [#3] ($4) [5%] (2@ $4 ea) [6f] (45) [56] (64) [46] (160) [61] (32) [45]
 
 private fun <U> groupFields(fieldName: HtmlS, items: List<Pair<*, TaintedS>>, fullFn: () -> EmptyFullIssue<U>): EmptyFullIssue<U>
 
@@ -79,15 +82,19 @@ fullFn: () -> EmptyFullIssue<U>): EmptyFullIssue<U> {
 
 Regex("20[23]\\d-[01]\\d-[0-3]\\dT[0-1]\\d:[0-5]\\d:[0-5]\\d")
 
-lo0-=-0ol l=l L=L l+l +l+ +L+ =L= =l= -l- =l= 0l0 l0l-l=l-l0l-l=l-l0
+lo0-=-0ol l=l L=L l+l +l+ +L+ =L= =l= -l- =l= L-L =L= -L- 0l0 l0l-l=l-l0l-l=l-l0
 k9k,9 l.0.0 ,9, 0.0 9,9 .0. <9< ).) >0> (,( ,8, *,* m7m 8,8 &m& <8< ,9, .0. 8<8 (,( 0>0
+id=\"[^\"]+\"
 id=\"[^\"]+\"
 id=\"[^\"]+\"
 .matching(Pattern.compile("Diagram-Heading|diagram_sub_head|Diagram-caption|JM-TIPS|Tool-caption"))// caption|img(Area|Head|sub_head|Full)|subtitle|tip"))
 
+\">([^<]+|<[^\\/]|<\\/[^d]|
+\">([^<]+|<[^\\/]|<\\/[^d]|
+\">([^<]+|<[^\\/]|<\\/[^d]|
 "c = c.replace(/<div id=\"[^\"]+\" class=\"note\">([^<]+|<[^\\/]|<\\/[^d]|<\\/d[^i]|<\\/di[^v]|<\\/div[^>])*<\\/div>/gi, function() { return ''; });\n" +
 
-frtrf fr5rf frt5tf ft5tf f5f f%f F5F %f% 5f5 %f% %F% f[0]=\"/ +ol. |'/ >lO= |'? .Lo+ ?"\|
+frtrf fr5rf frt5tf ft5tf f5f v%v F5F %V% 5f5 %f% %F% f[0]=\"/ +ol. |'/ >lO= |'? .Lo+ ?"\|
 
 "<span class=\"b1\">h</span>i<span class=\"b1\">s </span>g"
 
@@ -114,11 +121,16 @@ s1s2 d3d4 f5f6 j7 k8k9 l0 0l9k8k7j6f5f4d3d2s1s s1s2d3d4f5f6j7k8k9l0 l0k9k8j7f6f5
 "</h3>[^<]*<div[^>]*>[^<]*<div[^>]*>[^<]*<img( class=\"[^\"]*\")? src=\"image/cruising.png\"[^>]*>[^<]*</div>[^<]*</div>"
 StringTokenizer(txt, "\t\n\r !\"#$%'()*+,-./0123456789:;=?[\\]^_`{|}~")
 
+6t6f6v5r5f5v c4d4e4e3d3c3 2x2s2w1w1s1x sawqsaxzsas
+1w1s1x1s1w sawqsaxzsas s`sw`wx`xs1s2s`s2
+
 l;l'./l;op0[-]=\ \=]-[0po;l'l/,., jkl; m,./ uiop 780 097 poiu ;lkj /.,m j" u| 7+ =* \U 'J ?M .?>/ "L;l'L:l oPO[o}O|O{o]O[op i8i9o0-= ;p[]\ \=]-|+\=}_]-{)[0poPOj
 
 "var m = s.match(/[ \\t\\n]+([a-zA-Z]+(=(\"([^\"]*)\"|'([^']*)'))?)/g);\n" +
 "var m = s.match(/[ \\t\\n]+([a-zA-Z]+(=(\"([^\"]*)\"|'([^']*)'))?)/g);\n" +
 "var m = s.match(/[ \\t\\n]+([a-zA-Z]+(=(\"([^\"]*)\"|'([^']*)'))?)/g);\n" +
+
+x2s d3c c4d e4e3 d3d4 c4c3 v5f5 x2s2w2 e3e4d3d4c3c4 f5f6r5r6v5v6
 
 <h[1-5]>([^<]+|<[^/]|</[^h]|</h[^1-5]|</h[1-5][^>])*</h[1-5]>
 <h[1-5]>([^<]+|<[^/]|</[^h]|</h[^1-5]|</h[1-5][^>])*</h[1-5]>
