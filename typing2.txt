@@ -1,53 +1,36 @@
-l.l l>l L.L L>L .l. >l> >L> lll >>> k,k ,k, ,,, <k< K,K klk ,.,
-KLK .,. ><> LKL kkk <<< k,k ,k, l.l .l. K,.L k<>l l.,K
 l>l k<k L.,k K,.L l><k K<>L kl,. KL<> lk>< LK.,
 
 <goals> <goal>compile</goal> </goals>
 <p><b>jetty</b> artifact only:<br/><br/>
 
-fr5rf f5f ft6tf f6f de4ed d4d de3ed d3d d4d de3 4e3 3e4 3d4 4d3
-d4d3d4d3 e4e3e4e3 de3ed de4ed fr5rf f5f f6f ft6tf ft5tf
 t5t6t5t6 f6f5f6f5 e4e3e4e3 d4d3d4d3 s2w21w2w1s1s2sw1w2
 
 kik iki ki8 8k8 K8K *k* I*I 8I8 *i* 8k8k kik ki9 9i9 k9k 9k9 9ik i9i k9k KiK
 K9K k,k ,k, k(k (k( ki(9 9(iK (9IiKk kKIi9( kik k(k (k( ki( (ik i(i (i( k(k
 k8k *k* i8i9i8i9 8k9k8k9k ,8,9,8,9, .lol. ,k89ik, k*(k K98K i*(i I98I
 
-lol lo0 o0o 000 0ol LoL lo0 0ol )o) )l) l)l o0o L0L L)L
-l.l lol lo) l>l o)o ))) )ol k(k l)l ki89ik lo0ol ki98ik lo0ol ;p;
+lol lo0 o0o 0ol LoL lo0 0ol )o) )l) l)l o0o L0L L)L
+l.l lol lo) l>l o)o )ol k(k l)l ki89ik lo0ol ki98ik lo0ol ;p;
 
-(f) (u) (g) (t) (quick) (brown) (fox) (jumps) (89k) (98K) (l)
-(70) (k) (01) (67) (76) (51) (lik) (78) (klop) (87) (plunk) (90)
+(f) (u) (g) (t) (quick) (brown) (fox) (jumps) (89k) (98K) (l) (plunk) (90)
 
-byteArrayOf((l.ushr(25) and 0xff).toByte(),
-(l.ushr(16) and 0xff).toByte(),
-(l.ushr(8) and 0xff).toByte(),
-(l and 0xff).toByte())
-
-Or<ImList<String>, ImList<String>> linkMsgs, EncodingUtils.validateLink(link, 255);
-private val messages: WeakHashMap<String, MutList<Msg>>, WeakHashMap()
-
-;;; ;'; ''' ::: :": """ ":", Braxton said, "She hasn't." Jill: "We've got it."
-Zed replied, "He won't." Alex mused, "You'd have to think."
-
-;;; ;p; ;'; ;p[p; ;'['; ;[; ;p['; ;'[p; ;;; ;[; [[[ [;[ ;;; ;[; [[[ [;[
-;[; [;[ ;;; ;'; ;[; ;p; ;[]; ;'; ;']'; ;]; ];] ]]] ;;; ;'][p; ;p[]'; ;[]
-
-[; ;']'; ;]; ]'; ;']'; :'"]"': ;'[]'; ;'][; ;[]'; ;[] ]]] ];] [] [] [] ;[];
+;p[p; ;'['; ;[; ;p['; ;'[p; ;[; [;[ ;p; ;[]; ;']'; ;]; ];] ;'][p; ;p[]'; ;[]
+[; ;']'; ;]; ]'; ;']'; :'"]"': ;'[]'; ;'][; ;[]'; ;[] ];] [] [] [] ;[];
 [;] ] [a] [z] [o] [y] [c] [X] [.] [W] [e] [V] [p] [l] [0] [over] [lazy] [dog]
 
 lo0 ki9 ki8 ki9 lo0 ki9 ki8 ki9 k,k k<k lo0 0ol 8ik 9ik 0ol ;p[p; ;p[
+0-8 9-0 l-l 7-8-9-0-9-8-7 .-. l=l 7=8=9=0=9=8=7 .=. 7=8=9=0=9=8=7 l=l
+;p; l0l p0p 0p0 [-[ 0p0 [-[ p0p [-] =\=
+54 23 43 25 34 52 `6` qs2sq q2q q1q q`q `1`2`3`4`5`4`3`2`1
 lo0 ;p[ lo0)OL lol lo0ol lo0-0ol l0l o0o l0l l0-0l l-l -o- 0l0
-o_o L-L l0l -l- lo0-_-0ol l0-0l l-l L_L -L- _l_ --- lO0_0Ol lll lo0ol
+o_o L-L l0l -l- lo0-_-0ol l0-0l l-l L_L -L- _l_ lO0_0Ol lo0ol
 
-lll l.l l-0-l l-o-l o-o lol l-l lo0- lo0-0ol Lo)-)oL ki9 ki8 *k*
-8K8 9k9 (k( k,k <k< 0l0 )l) 0L0 lll lol ooo lo- lo- l-l -L-
-_l- _L_ lll ;;; ;[; [;[ lol ;p; ;[; l-l lll ---
-[*] ]*[ {*} ]8[ }8{ ]*{ }*[
+l.l l-0-l l-o-l o-o lol l-l lo0- lo0-0ol Lo)-)oL ki9 ki8 *k*
+8K8 9k9 (k( k,k <k< 0l0 )l) 0L0 lol lo- lo- l-l -L-
+_l- _L_ ;[; [;[ lol ;p; ;[; l-l [*] ]*[ {*} ]8[ }8{ ]*{ }*[
 
 Regex("20[23][0-9]-[01][0-9]-[0-3][0-9]T[0-1][0-9]:[0-5][0-9]:[0-5][0-9]")
-Regex("20[23][0-9]-[01][0-9]-[0-3][0-9]T[0-1][0-9]:[0-5][0-9]:[0-5][0-9]")
-Regex("20[23][0-9]-[01][0-9]-[0-3][0-9]T[0-1][0-9]:[0-5][0-9]:[0-5][0-9]")
+Regex("20[23][7-9]-[09][89]-[8-0][0-9]T[01][7-0]:[0-6][0-7]:[0-8][0-9]")
 
 de3ed d3d de4ed e3e e4e 3e3 s2s 4e4 f5f e34e e43e d4d d3d 2s2 d4d 3d3 4d4
 f5f de3ed de4ed de34ed d3d s2s d4d 5f5 d43d d34d D3D fVf5 dCd4 sXs2
@@ -64,68 +47,73 @@ s2s s@s @2@ s!s aqa aza sxs sws sw2ws sw21ws s1s sw21`12ws s2s s1s s`s
 s1s s2s sw2ws w2w w1w w`w 1w1 2w2 `s` S`S !s! S1S @s@ S2S
 
 s`s s~s `1` `2` s`s1s2s1s` ~s!s@s!s~ 2S1S`S1S2S 2`2 ~2~ @`@
-1`121s1s12s2`s`2s ``` sss `s` s`s 1s1 2s2 sss ddd d3d s2s 3d3 2s2
+1`121s1s12s2`s`2s `s` s`s 1s1 2s2 d3d s2s 3d3 2s2
 s@s d#d 3@3 3$3 3!3 3%3 3~3 3^3 #`# 3^3 #1# 3%3 #23 #43 #$# 3@3 ~s3
 
 "<h3[^>]*>How do I do it[?]</h3>"
 
-[3x] (2x) [3x2] (2x3) [#3] ($4) [5%] (2@ $4 ea) [6f] (45) [56] (64) [46] (160) [61] (32) [45]
+[3x] (2x) [3x2] (2x3) [#3] ($4) [5%] (2@ $4 ea)
+[6f] (45) [56] (64) [46] (160) [61] (32) [45]
 
-(9 - 8) (8 - 9) [53 - 62] (80 - 90) [90 - 80] (109 - 78) (23 - 54) [45 - 32] (13 - 24)
-[98 - 89] (89 - 98) [61 - 16] (70 - 71) (k - l) (97 - 78) (l - k) (87 - 79) (67 - 76) (79 - 70)
+(9 - 8) (8 - 9) [53 - 62] (80 - 90) [90 - 80] (109 - 78) (23 - 54) [45 - 32]
+(13 - 24) [98 - 89] (89 - 98) [61 - 16] (70 - 71) (k - l) (97 - 78) (l - k)
+(87 - 79) (67 - 76) (79 - 70) <45 - 23> [54 - 32] (14 - 63) (41 - 36)
 
-Ki8 9Ik 0ol ,k8 lo) 8ik 9ik l)l k(k lo0ol ki9ik ki8ik ju7uj
-ft6tf fr5rf ft6tf ju7uj jmj jnj jhj ki8ik ki9ik
+Ki8 9Ik 0ol ,k8 lo) 8ik 9ik l)l k(k l0l 0o0 k9k 8i8 i9i 8k8 j7j 7u7
+f6f 6t6 r5r 5f5 t6t 6f6 7j7 u7u jmj jnj jhj 8k8 i9i 0l0 ,8, 7m7
 k,k <k< l.l >l> .0. .-. .=. l.l o=o o-o o0o l0l-l=l-l0l. .0.-.=.-.0
 
 123e4e45678i89i9ik 1234567890o098i89i98i8765r54e4d3e321
-lll ded de3 e3e de4 e4e E#E $E$ DE#ED $EDE$ de3ed
-4ede4 De#eD dE4Ed De$eD dE4Ed d3d d4d d#d d$d
+ ded de3 e3e de4 e4e E#E $E$ #D# D$D 3c3 x2x v5v 4c4
+d3d 4d4 e4e 3e3 d#d #e# e$e $e$ e#e
 
 #14 = #41 = $67 = #20 = $83 = #93 = #49 = $78 = #20 = $95 = #82 = $81 = #17
 = $52 = #67 = $45 = #54 = #41 = #14 = #51 = #15 = #61 = #16 = $26 = #62
 
- lll l0l-l=l-l0 o0o-o=o+o=l-l_l .-.=.+._. l-l l_l l=l l+l l-l +l+
-L=L L+L l+l 0l0 +l+ )l) -L- +L+ lll +++ lll
-+o+ o+o lo0ol 0-0 0=0 0_0 0+0 )-) _0_ -)_ _)- 0=0 )=) 0+0 +0+ +)+ l-o=o+l
+ l0l-l=l-l0 o0o-o=o+o=l-l_l .-.=.+._. l-l l_l l=l l+l l-l +l+
+L=L L+L l+l 0l0 +l+ )l) -L- +L+
++o+ o+o l0l 0-0 0=0 0_0 0+0 )-) _0_ -)_ _)- 0=0 )=) 0+0 +0+ +)+ l-o=o+l
 
-31 + 62 - 11 + 34 - 88 + 43 - 70 + 54 - 71 + 23 - 34 + 54 - 32 + 45 - 12 + 14
-- 41 + 67 - 37 + 73 - 89 + 81 - 23 + 17 - 74 + 54 - 45 + 80 - 28 + 63 - 44 +
-13 - 60 + 44 - 34 + 46 - 59 + 98 - 11 + 72 - 63 + 37 -
+31 + 62 - 11 + 34 - 88 + 43 - 70 + 54 - 71 + 23 - 34 + 54 - 32 + 45 - 12 +
+14 - 41 + 67 - 37 + 73 - 89 + 81 - 23 + 17 - 74 + 54 - 45 + 80 - 28 + 63 -
+44 + 13 - 60 + 44 - 34 + 46 - 59 + 98 - 11 + 72 - 63 + 37 -
 
 d3d c3c 4c4 5v5 x2x x1x x2x c3c 4c4 5v5 c4c 3c3 x2x X2C3C4V5 %v$c#c@x
 ]*} *]8 (*[] ][98 ]*[9 098|][ [(]* +(+ [43 +45 (+( *{* }*} ]8] ]*] \*\
 
-;;; ;[; ;[{[; :{[{: ;{; {{{ {;{ ;;; :{: {{{ {:{ ;{; {;{ ;;; ;{;
-;'; ;']'; :"}": ;'}'; :"}'; ;'}": ;{} }}} };} {} {} {} ;{}; {;} }
+ ;[; ;[{[; :{[{: ;{; {;{ :{: {:{ ;{; {;{ ;{; ?}? }/}
+;'; ;']'; :"}": ;'}'; :"}'; ;'}": ;{} };} {} {} {} ;{}; {;} }
 {h} {s} {i} {r} {j} {q} {p} {Y}
 
 <style>.cls-2{fill:#fff;}.cls-6{stroke:#000;}
 .cls-3{stroke-width:0.12px;}.cls-4{fill:url(#linear-gradient);}
 .cls-5{fill:url(#linear-gradient-2);}.cls-6{stroke-width:0.11px;}</style>
 
-<pattern>%date %level [%thread] %logger{10} [%file:%line] %msg{nolookups}%n</pattern>
+<pattern>%date %level [%thread] %logger{10} [%file:%line]
+ %msg{nolookups}%n</pattern>
 
-val res: SortedMap<Int, Pair<Int?, String?>> = sortAndPair(aas, {a -> a}, bbs, {b -> b.toInt()})
+val res: SortedMap<Int, Pair<Int?, String?>> = sortAndPair(aas, {a -> a}, bbs,
+{b -> b.toInt()})
 
 public static <T> void replaceAssociations(Fn0<List<? super T>> fn,
 Collection<? extends T> newItems) {
 fullFn: () -> EmptyFullIssue<U>): EmptyFullIssue<U> {
 
-;;; ;[; ;[]; ;[]\][; ;'; ;'['; ;'[]'; ;']'; ;']\]'; ;]; ;]\ ;]\ ;\; ;\; ;;;
-;]; ;]; ;]| ;]| ;|; ;|; ||| \;\ ;'\'; ;[]\][; lo0-=-0ol ;'[]\]['; ;']\]';
+ ;[; ;[]; ;[]\][; ;'; ;'['; ;'[]'; ;']'; ;']\]'; ;]; ;]\ ;]\ ;\; ;\;
+;]; ;]; ;]| ;]| ;|; ;|; \;\ ;'\'; ;[]\][; lo0-=-0ol ;'[]\]['; ;']\]';
 ;\; :\: ;|; \:\ |;| |:| \;\ ;\; \74| \67| \97| \63| \21| \44| \37| \46| \76|
 
 Regex("20[23]\\d-[01]\\d-[0-3]\\dT[0-1]\\d:[0-5]\\d:[0-5]\\d")
 
-lo0-=-0ol l=l L=L l+l +l+ +L+ =L= =l= -l- =l= L-L =L= -L- 0l0 l0l-l=l-l0l-l=l-l0
+l0l -l- l=l =L= l+l =l= L+L +l+ l-l =l= 0l0 -l- l=l
+l0l-l=l-l0l-l=l-l0 .0. -.- .=. -o- 0o0 .-. =.=
 k9k,9 l.0.0 ,9, <8< 7m7 *,* 9<9 0.0 >0> ,9, 8<8 m7m
 .0. <9< ).) >0> (,( ,8, *,* m7m 8,8 &m& <8< ,9, .0. 8<8 (,( 0>0
 id=\"[^\"]+\"
 id=\"[^\"]+\"
 id=\"[^\"]+\"
 .matching(Pattern.compile("Diagram-Heading|diagram_sub_head|Diagram-caption|
-JM-TIPS|Tool-caption"))// caption|img(Area|Head|sub_head|Full)|subtitle|tip"))
+JM-TIPS|Tool-caption"))// caption|img(Area|sub_head|Full)|subtitle|tip"))
 
 \">([^<]+|<[^\\/]|<\\/[^d]|
 \">([^<]+|<[^\\/]|<\\/[^d]|
@@ -150,14 +138,14 @@ d3d d#d D3D sxs SxS XsX xSx
 
 <!--([^-]+|-[^-]+|--[^>])*-->
 <!--([^-]+|-[^-]+|--[^>])*-->
+<!--([^-]+|-[^-]+|--[^>])*-->
 fileStr.replace(Regex("<!--([^-]+|-[^-]+|--[^>])*-->"), "")
 
 (?:<span>)? ?Tip ?((?:[^<]+|<[^/]|</[^p]|</p[^>])*)
 (?:<span>)? ?Tip ?((?:[^<]+|<[^/]|</[^p]|</p[^>])*)
-s = s.replace("<p class=\"JM-TIPS\">
 (?:<span>)? ?Tip ?((?:[^<]+|<[^/]|</[^p]|</p[^>])*)
-</p>".toRegex(), "<tip>$1</tip>")
 
+"\t*<p "\t*<p "\t*<p [^\"]*\"> [^\"]*\"> [^\"]*\">
 "\t*<p class=\"Tool-caption[^\"]*\">([^<]+|<[^/]|</[^p][^>]+>)*</p>"
 s = s.replace("\t*<p class=\"Tool-caption[^\"]*\">
 ([^<]+|<[^/]|</[^p][^>]+>)*</p>"
