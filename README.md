@@ -16,3 +16,5 @@ https://en.wikipedia.org/wiki/QWERTY#Alternatives
 Anecdotally:
 "Dvorak made me faster almost entirely because it forced me to learn to touch type."
 https://www.theverge.com/2019/2/17/18223384/dvorak-qwerty-keyboard-layout-10-years-speed-ergonomics
+
+typing2.txt is currently the main file in this project.
