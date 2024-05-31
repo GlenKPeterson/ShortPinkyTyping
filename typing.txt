@@ -174,7 +174,7 @@ s = s.replace("\t*<p class=\"Tool-caption[^\"]*\">
 ([^<]+|<[^/]|</[^p][^>]+>)*</p>"
 .toRegex(), "<subtitle>$1</subtitle>")
 
-s1s2 d3d4 f5f6 j7 k8k9 l0 0l9k8k7j6f5f4d3d2s1s
+s1s2 d3d4 f5f6 j7 k8k9 l0 0lk9k8kj7jf6f5fd4d3ds2s1s
 s1s2d3d4f5f6j7k8k9l0 l0k9k8j7f6f5d4d3s2s1
 1234567890 0987654321
 (12) = <34> {56} [7] = (809) <23 + 54> {45 - 32} =
